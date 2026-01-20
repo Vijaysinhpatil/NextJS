@@ -1,3 +1,7 @@
+
+export const metadata = {
+    title : "About Merkting group route"
+}
 export default function MarktingDeails(){
     return(
         <>
